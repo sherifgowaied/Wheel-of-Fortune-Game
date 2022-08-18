@@ -8,7 +8,7 @@ We’re going to start by defining a class to represent a Wheel of Fortune playe
 
 .prizes: The prizes this player has won so far (a list, initialized to [])
 
-Of these instance variables, only name should be passed into the constructor.
+Of these instance variables ,only name should be passed into the constructor.
 
 It should also have the following methods (note: we will exclude self in our descriptions):
 
